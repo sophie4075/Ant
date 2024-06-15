@@ -8,13 +8,12 @@ Before running this project, ensure you have the following installed on your sys
 - Apache Ant
 
 ## Project Structure
-src/: Contains the source code (.java files).
-classes/: Output directory for compiled classes.
-docs/: Directory for generated Javadocs.
-lib/: Directory for external libraries.
-build.xml: The Ant build file that defines all tasks.
-Build Tasks
-The build.xml file defines several tasks to manage the project:
+- src/: Contains the source code (.java files).
+- classes/: Output directory for compiled classes.
+- docs/: Directory for generated Javadocs.
+- lib/: Directory for external libraries.
+- build.xml: The Ant build file that defines all tasks.
+- Build Tasks: The build.xml file defines several tasks to manage the project:
 
 
 ## Notes
