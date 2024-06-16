@@ -24,7 +24,7 @@ Adjust the URLs in the build.xml file if the dependency URLs change or if using 
 ## Conclusion
 This project demonstrates a simple Ant build process for a Java application. The provided build.xml file contains tasks for common operations such as compilation, testing, and documentation generation. Modify the file as needed for more complex projects.
 
-##Screenshots using git commands
+## Screenshots using git commands
 
 <img width="1393" alt="Bildschirmfoto 2024-06-15 um 11 42 16" src="https://github.com/sophie4075/Ant/assets/114300675/fd97eee8-104d-4da5-aaaf-22322f992d3f">
 
